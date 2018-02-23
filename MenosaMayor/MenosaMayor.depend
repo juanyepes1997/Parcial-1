@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1519353475 source:c:\users\familia\desktop\algortimos\menosamayor\main.cpp
+	<iostream>
+	<math.h>
+	<string>
+	<stdlib.h>
+
